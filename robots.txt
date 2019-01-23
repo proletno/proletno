@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+
+Sitemap: https://proletno.github.io/sitemap.xml
